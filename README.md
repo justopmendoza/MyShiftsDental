@@ -8,7 +8,7 @@ My Shifts Dental
     
 ***Descripción del Proyecto***
 
-Esta App permitirá generar turnos para consultorios Odontológicos y para la acreditación en la fecha asignada.
+Esta App  generar turnos para consultorios Odontológicos y para la acreditación del paciente en la fecha asignada.
 
 
 
